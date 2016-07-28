@@ -1,0 +1,9 @@
+Package: com.mxchip.characountfornote
+Name: CharacountForNote
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: 在 备忘录 的标题栏显示当前备忘录的字数 
+Maintainer: WuZhengBin
+Author: WuZhengBin
+Section: Tweaks
